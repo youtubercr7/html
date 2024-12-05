@@ -1,0 +1,23 @@
+li{
+    color: skyblue;
+}
+#players {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    object-fit: cover;
+    
+}
+body{
+    font-family: sans-serif;
+}
+#messi{
+    padding-top: 10px;
+}
+#logo{
+    height: 80px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+
+}
+

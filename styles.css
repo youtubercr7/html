@@ -20,4 +20,23 @@ body{
     margin: 0px 0px;
 
 }
+#pessi{
+    display: flex;
+}
 
+#Ankara_Messi{
+    width: 50%;
+}#robber{
+    width:50%;
+    margin-left: 700px;
+    margin-bottom: 40%;
+}
+#ronaldo_achivements{
+   margin-left: 300px;
+    margin-bottom: 140px;
+}
+#penaldo{
+    border-right:  0px;
+    margin-right: 10px;
+    row-gap: 0px;
+}
